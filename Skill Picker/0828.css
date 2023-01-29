@@ -1,0 +1,26 @@
+            header {
+                background-color: crimson;
+                color: white;
+                text-align: center;
+                font-size: 50px;
+                padding: 50px;
+            }
+            
+            .item {
+                border: 1px dotted black;
+                font-size: 50px;
+                text-align: center;
+            }
+            
+            hr {
+                border: 10px solid black;
+            }
+            
+            p {
+                text-align: center;
+            }
+            
+            #list_area {
+                text-align: center;
+                border: 1px solid gray;
+            }
